@@ -1,0 +1,573 @@
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\appsettings.json
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.exe
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.deps.json
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.runtimeconfig.json
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.runtimeconfig.dev.json
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.pdb
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.WindowsServices.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\LibraryMR.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\LibraryMR.pdb
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.csprojAssemblyReference.cache
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.AssemblyInfoInputs.cache
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.AssemblyInfo.cs
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.csproj.CoreCompileInputs.cache
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.MvcApplicationPartsAssemblyInfo.cs
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.MvcApplicationPartsAssemblyInfo.cache
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.RazorTargetAssemblyInfo.cache
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.csproj.CopyComplete
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\staticwebassets\JoinsPay-Back-End.StaticWebAssets.Manifest.cache
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\staticwebassets\JoinsPay-Back-End.StaticWebAssets.xml
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.dll
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.pdb
+C:\wamp64\www\smartpoint - Copia\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.genruntimeconfig.cache
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.csprojAssemblyReference.cache
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.AssemblyInfoInputs.cache
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.AssemblyInfo.cs
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.csproj.CoreCompileInputs.cache
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.MvcApplicationPartsAssemblyInfo.cs
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.MvcApplicationPartsAssemblyInfo.cache
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.pdb
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\appsettings.json
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.exe
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.deps.json
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.runtimeconfig.json
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.runtimeconfig.dev.json
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.pdb
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Aspose.Cells.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.WindowsServices.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\LibraryMR.dll
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\bin\Debug\netcoreapp3.1\LibraryMR.pdb
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.RazorTargetAssemblyInfo.cache
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.csproj.CopyComplete
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\staticwebassets\JoinsPay-Back-End.StaticWebAssets.Manifest.cache
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\staticwebassets\JoinsPay-Back-End.StaticWebAssets.xml
+C:\wamp64\www\JoinsPay\JoinsPay-Back-End\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.genruntimeconfig.cache
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.exe
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.deps.json
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.runtimeconfig.json
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.runtimeconfig.dev.json
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\JoinsPay-Back-End.pdb
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.WindowsServices.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.AssemblyInfoInputs.cache
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.AssemblyInfo.cs
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.csproj.CoreCompileInputs.cache
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.MvcApplicationPartsAssemblyInfo.cs
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.MvcApplicationPartsAssemblyInfo.cache
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.RazorTargetAssemblyInfo.cache
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.csproj.CopyComplete
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\obj\Debug\netcoreapp3.1\staticwebassets\JoinsPay-Back-End.StaticWebAssets.Manifest.cache
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\obj\Debug\netcoreapp3.1\staticwebassets\JoinsPay-Back-End.StaticWebAssets.xml
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.dll
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.pdb
+D:\Projeto Back e Front - Base C#\JoinsPay-Back-End - Copia\projectback\obj\Debug\netcoreapp3.1\JoinsPay-Back-End.genruntimeconfig.cache
