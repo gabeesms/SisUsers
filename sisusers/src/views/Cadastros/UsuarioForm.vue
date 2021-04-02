@@ -17,7 +17,7 @@
     </v-snackbar>
     <v-row ref="form">
       <v-col cols="12" v-if="!id">
-        <h3>Adicione um novo departamento no sistema</h3>
+        <h3>Adicione um novo usuário no sistema</h3>
       </v-col>
       <v-col cols="12" v-if="id">
         <h3>
