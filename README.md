@@ -40,38 +40,38 @@
 ---
 Interface do Projeto
 
-1. Menu Lateral com opção de usuário, ao clicar é exibido a lista de usuários.
+1. Menu Lateral com opção de Usuários, e ao clicar é exibido a lista de usuários.
 
 ![](https://raw.githubusercontent.com/gabeesms/SisUsers/Feature/Gabrielle/imagens/Interface/Imagem1.JPG)
 
-2. Botão novo usuário e é exibido a tela de formulário de novo usuário.
+2. Botão NOVO USUÁRIO é exibido a tela de cadastro usuário.
 
 ![](https://raw.githubusercontent.com/gabeesms/SisUsers/Feature/Gabrielle/imagens/Interface/Imagem2.JPG)
 
-3. Botão cancelar e redireciona para a lista de usuários.
+3. Botão CANCELAR redireciona para a lista de usuários.
 
-4. Botão salvar usuário, e ao salvar usuário e redirecionado para a lista de usuários.
+4. Botão SALVAR persiste os dados e retorna para a lista de usuários.
 
 ![](https://raw.githubusercontent.com/gabeesms/SisUsers/Feature/Gabrielle/imagens/Interface/Imagem3.JPG)
 
-5. Botão de ação na tabela editar usuário e redirecionado para tela de usuário formulário editar.
+5. Botão de ação EDITAR, realiza a chamada da tela de edição de dados.
 
 ![](https://raw.githubusercontent.com/gabeesms/SisUsers/Feature/Gabrielle/imagens/Interface/Imagem4.JPG)
 
 
-6. Botão cancelar e redirecionado para a lista de usuários.
+6. Botão CANCELAR redireciona para a lista de usuários.
 
-7. Botão alterar, e ao alterar é redirecionado para a lista de usuários.
+7. Botão ALTERAR edita os dados no banco de dados.
 
 ![](https://raw.githubusercontent.com/gabeesms/SisUsers/Feature/Gabrielle/imagens/Interface/Imagem5.JPG)
 
-8. Botão remover usuário, e ao clicar é exibido um diálogo.
+8. Botão de ação REMOVER é exibido um diálogo com botões de ação SIM | NÃO para exclusão do registro selecionado.
 
 ![](https://raw.githubusercontent.com/gabeesms/SisUsers/Feature/Gabrielle/imagens/Interface/Imagem6.JPG)
 
-9. Diálogo remover usuário com botão opção NÃO, e ao clicar é redirecionado para a lista de usuários.
+9. Diálogo Remover Usuário, ao clicar NÃO cancela a ação e retorna para a lista de usuários cadastrados.
 
-10. Diálogo remover usuário com o botão opção SIM, e ao clicar é removido o usuário e redirecionado para a lista de usuários com a tabela atualizada.
+10. Diálogo Remover Usuário, ao clicar SIM é excluído do banco de dados o registro selecionado. 
 
 ![](https://raw.githubusercontent.com/gabeesms/SisUsers/Feature/Gabrielle/imagens/Interface/Imagem7.JPG)
 

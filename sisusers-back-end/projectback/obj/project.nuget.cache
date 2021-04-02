@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AKpFP/Uim30EKWtaQbSK+rgyWa1SLP5x6Msax5WDHgESmAsIUfCM/+097tgo3pcR4za74ksJtE2hgXBZUJ+IpQ==",
+  "dgSpecHash": "bp4JBwGGdr80OG/PHPBNnamX5V8HojYBzUVI0LTa46kIdfb0QQAFRnm8wtQzoAUpdwoe8kps3g1LZyCBy4WBQg==",
   "success": true,
-  "projectFilePath": "C:\\TesteBDigital\\sisusers\\sisusers-back-end\\projectback\\SisUser-Back-End.csproj",
+  "projectFilePath": "C:\\Projetos\\SisUsers\\sisusers-back-end\\projectback\\SisUser-Back-End.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabrielle\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Gabrielle\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",

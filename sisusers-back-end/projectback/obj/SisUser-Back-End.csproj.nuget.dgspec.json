@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TesteBDigital\\sisusers\\sisusers-back-end\\projectback\\SisUser-Back-End.csproj": {}
+    "C:\\Projetos\\SisUsers\\sisusers-back-end\\projectback\\SisUser-Back-End.csproj": {}
   },
   "projects": {
-    "C:\\TesteBDigital\\sisusers\\sisusers-back-end\\projectback\\SisUser-Back-End.csproj": {
+    "C:\\Projetos\\SisUsers\\sisusers-back-end\\projectback\\SisUser-Back-End.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TesteBDigital\\sisusers\\sisusers-back-end\\projectback\\SisUser-Back-End.csproj",
+        "projectUniqueName": "C:\\Projetos\\SisUsers\\sisusers-back-end\\projectback\\SisUser-Back-End.csproj",
         "projectName": "SisUser-Back-End",
-        "projectPath": "C:\\TesteBDigital\\sisusers\\sisusers-back-end\\projectback\\SisUser-Back-End.csproj",
+        "projectPath": "C:\\Projetos\\SisUsers\\sisusers-back-end\\projectback\\SisUser-Back-End.csproj",
         "packagesPath": "C:\\Users\\Gabrielle\\.nuget\\packages\\",
-        "outputPath": "C:\\TesteBDigital\\sisusers\\sisusers-back-end\\projectback\\obj\\",
+        "outputPath": "C:\\Projetos\\SisUsers\\sisusers-back-end\\projectback\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabrielle\\AppData\\Roaming\\NuGet\\NuGet.Config",

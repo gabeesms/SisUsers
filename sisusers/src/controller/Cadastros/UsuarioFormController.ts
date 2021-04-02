@@ -146,17 +146,6 @@ export default class UsuarioFormController extends Vue {
       return true;
     }
 
-    if (
-      this.mUsuario.complemento == "" ||
-      this.mUsuario.complemento.length > 50
-    ) {
-      this.colorBorder = "error";
-      this.color = "error";
-      this.text = "O campo complemento está vazio ou inválido.";
-      this.snackbar = true;
-      return true;
-    }
-
     if (this.mUsuario.email == "" || this.mUsuario.email.length > 50) {
       this.colorBorder = "error";
       this.color = "error";
