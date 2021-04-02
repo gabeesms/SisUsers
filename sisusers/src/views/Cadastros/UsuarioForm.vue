@@ -117,11 +117,6 @@
             label="Complemento"
             placeholder="Digite o Complemento"
             v-model="mUsuario.complemento"
-            :rules="[
-              () =>
-                (!!mUsuario.complemento && mUsuario.complemento.length <= 50) ||
-                '',
-            ]"
             counter="50"
             maxlength="50"
           ></v-text-field>
