@@ -52,7 +52,7 @@ Interface do Projeto
 
 4. Botão SALVAR persiste os dados e retorna para a lista de usuários.
 
-![](https://raw.githubusercontent.com/gabeesms/SisUsers/Feature/Gabrielle/imagens/Interface/Imagem3.JPG)
+![](https://raw.githubusercontent.com/gabeesms/SisUsers/main/imagens/Interface/Imagem3.JPG)
 
 5. Botão de ação EDITAR, realiza a chamada da tela de edição de dados.
 
