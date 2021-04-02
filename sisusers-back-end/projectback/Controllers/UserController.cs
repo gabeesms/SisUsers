@@ -201,7 +201,7 @@ namespace projectback.Controllers
         private async Task<EnderecoModel> BuscaCep(string cep)
         {
 
-            consultaCEP = new HttpClient();
+            consultaCEP = new HttpClient(); // instancia conexao http
 
             string conexao = _config.GetSection("CEP_CORREIOS:path").Value.ToString();
 
@@ -211,7 +211,7 @@ namespace projectback.Controllers
 
             HttpResponseMessage response = consultaCEP.GetAsync(cep + "/json/").Result;
 
-            if (response.IsSuccessStatusCode)
+            if (response.IsSuccessStatusCode) //retorna a estrutura do cep
             {
                 enderecoUri = response.Headers.Location;
 

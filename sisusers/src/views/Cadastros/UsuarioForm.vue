@@ -12,7 +12,6 @@
         <v-btn v-bind="attrs" @click="snackbar = false" icon dark small>
           <v-icon>mdi-close</v-icon>
         </v-btn>
-        <!-- <v-btn icon v-bind="attrs" @click="snackbar = false">mdi-magnify</v-btn> -->
       </template>
     </v-snackbar>
     <v-row ref="form">
