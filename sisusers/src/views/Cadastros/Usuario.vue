@@ -79,13 +79,13 @@
           </template>
           <template v-slot:item.acoes="{ item }">
             <v-icon
-              title="Editar Funcionário"
+              title="Editar"
               color="primary"
               @click="update(item)"
               >mdi-pencil</v-icon
             >
             <v-icon
-              title="Remover Funcionário"
+              title="Remover"
               color="primary"
               @click="remove(item)"
               >mdi-delete</v-icon
